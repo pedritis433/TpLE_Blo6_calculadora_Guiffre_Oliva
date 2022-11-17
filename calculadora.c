@@ -37,7 +37,6 @@ float calculadora(int num1, int num2, char op) {
   if (op == '/' || op == ':') {
     if(num2==0){printf("no es posible dividir por 0\n");}
     else{resultado = num1 / num2;}
-    
   }
   if (op == '*' || op == 'x') {
     resultado = num1 * num2;
