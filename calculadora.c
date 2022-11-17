@@ -1,6 +1,5 @@
 #include <math.h>
 #include <stdio.h>
-#include <stdio_ext.h>
 
 float calculadora(int num1, int num2, char op);
 
